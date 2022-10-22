@@ -14,7 +14,7 @@ class DespesasPessoais extends StatelessWidget {
   Widget build(BuildContext context) {
     final ThemeData tema = ThemeData();
     return MaterialApp(
-        title: 'Despesas Pessoais',
+        title: 'Controle de Despesas',
         themeMode: ThemeMode.dark,
         color: Color.fromARGB(255, 10, 228, 46),
         debugShowCheckedModeBanner: false,
